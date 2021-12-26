@@ -1,0 +1,23 @@
+.login {
+  width: 100%;
+  min-height: 90vh;
+  background: black;
+  display: flex;
+  color: whitesmoke;
+}
+
+.login-container {
+  background: whitesmoke;
+  padding: 45px;
+  margin: 100px auto ;
+  min-height: 300px;
+  min-width: 220px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border: 2px solid gold;
+  border-radius: 45px;
+  
+}
+
+

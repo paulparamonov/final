@@ -1,0 +1,16 @@
+.products-search {
+   
+    justify-content: space-between;
+}
+.imgCard {
+    height: 280px;
+}
+
+@media screen and (max-width: 800px) {
+    .products-search {
+        flex-direction: column;
+        justify-content: center;
+        align-items: space-between;
+    }
+    
+  }

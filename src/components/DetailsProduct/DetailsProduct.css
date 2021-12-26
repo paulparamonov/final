@@ -1,0 +1,24 @@
+.comments-form{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.comments-form button {
+    margin-top:10px;
+    
+}
+
+.item-imag{
+    display: none;
+}
+@media screen and (max-width: 770px){
+.item-image{
+    display: none;
+}
+.item-imag{
+    display: block;
+}
+     
+   }

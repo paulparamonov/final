@@ -1,0 +1,146 @@
+{
+  "payment": [
+    {
+      "products": [
+        {
+          "item": {
+            "brand": "Universal",
+            "model": "Atomic 7 BCAA",
+            "description": "Незаменимые аминокислоты BCAA с таурином, цитруллином и глютамином",
+            "price": 30,
+            "image1": "https://protei.kg/wp-content/uploads/2020/12/image_2018-01-08_5a539c92b4523.jpg",
+            "image2": "https://protei.kg/wp-content/uploads/2020/12/image_2018-01-08_5a539c92b4523.jpg",
+            "likes": 0,
+            "comments": [],
+            "id": 4
+          },
+          "count": 1,
+          "subPrice": 30
+        }
+      ],
+      "totalPrice": 30,
+      "email": "sereuspro94@gmail.com",
+      "name": "PAVEL PARAMONOV",
+      "cardNumber": "2222222222222",
+      "cardDate": "09/12",
+      "cardCVC": "321",
+      "number": "+996703219464",
+      "address": "prof23",
+      "id": 1
+    }
+  ],
+  "products": [
+    {
+      "brand": "Universal",
+      "model": "Universal Beef Aminos 100%",
+      "description": "100% Beef Aminos – это высокоэффективная смесь аминокислот высшего качества, полученных из высококачественного изолята говяжьего белка, говяжьего концентрата альбумина и печени аргентинской говядины",
+      "price": 30,
+      "image1": "https://protei.kg/wp-content/uploads/2020/12/animal-pak.png",
+      "image2": "https://protei.kg/wp-content/uploads/2020/12/animal-pak.png",
+      "likes": 0,
+      "comments": [],
+      "id": 1,
+      "video": "as"
+    },
+    {
+      "brand": "Universal",
+      "model": "Universal Nutrition Animal Pak",
+      "description": "Animal Pak – сбалансированная витаминно-минеральная добавка от производителя Universal Nutrition. Специалисты компании разработали специальную формулу, обеспечивающую организм комплексом необходимых микронутриентов для развития мышечной массы и общеукрепляющего действия.",
+      "price": 50,
+      "image1": "https://protei.kg/wp-content/uploads/2020/12/animal-pak-600x600.png",
+      "image2": "https://protei.kg/wp-content/uploads/2020/12/animal-pak-600x600.png",
+      "likes": 0,
+      "comments": [],
+      "id": 2
+    },
+    {
+      "brand": "Universal",
+      "model": "Animal Flex",
+      "description": "Ни одна другая добавка для суставов и связок не выиграла такого количества наград и почестей, как Animal Flex. Почему? Потому что наш продукт работает. Animal Flex от Universal Nutrition выигрывал престижную награду «Добавка для суставов года», на протяжении восьми лет. Но что еще более важно, Animal Flex изменил жизнь лифтеров по всему миру и помогал держать их в тренажерном зале день за днем.",
+      "price": 70,
+      "image1": "https://protei.kg/wp-content/uploads/2020/12/flex.jpg",
+      "image2": "https://protei.kg/wp-content/uploads/2020/12/flex.jpg",
+      "likes": 0,
+      "comments": [],
+      "id": 3
+    },
+    {
+      "brand": "Universal",
+      "model": "Atomic 7 BCAA",
+      "description": "Незаменимые аминокислоты BCAA с таурином, цитруллином и глютамином",
+      "price": 30,
+      "image1": "https://protei.kg/wp-content/uploads/2020/12/image_2018-01-08_5a539c92b4523.jpg",
+      "image2": "https://protei.kg/wp-content/uploads/2020/12/image_2018-01-08_5a539c92b4523.jpg",
+      "likes": 0,
+      "comments": [],
+      "id": 4
+    },
+    {
+      "brand": "Mutant",
+      "model": "Mutant mass",
+      "description": "СМЕСЬ УГЛЕВОДОВ (КРАХМАЛ ВОСКОВОЙ КУКУРУЗЫ, КРАХМАЛ ЯЧМЕНЯ, БАТАТ, ПРОКАТАННЫЙ ОВЕС, МАЛЬТОДЕКСТРИН), МАТРИЦА MUTANT MASS PRO (КОНЦЕНТРАТ СЫВОРОТОЧНОГО БЕЛКА, ГИДРОЛИЗАТ СЫВОРОТОЧНОГО БЕЛКА, ИЗОЛЯТ СЫВОРОТОЧНОГО БЕЛКА, МИЦЕЛЛЯРНЫЙ КАЗЕИН, КОНЦЕНТРАТ МОЛОЧНОГО БЕЛКА, ИЗОЛЯТ МОЛОЧНОГО БЕЛКА",
+      "price": 100,
+      "image1": "https://protei.kg/wp-content/uploads/2020/11/330_6a08cb9f.jpeg",
+      "image2": "https://protei.kg/wp-content/uploads/2020/11/330_6a08cb9f.jpeg",
+      "likes": 0,
+      "comments": [],
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "comment": " хороший товар",
+      "productId": 1,
+      "email": "sereuspro94@gmail.com",
+      "id": 1
+    },
+    {
+      "comment": "cool",
+      "productId": 5,
+      "email": "sereuspro94@gmail.com",
+      "id": 2
+    }
+  ],
+  "brands": [
+    {
+      "brand": "Genetic lab",
+      "logo": "https://protei.kg/wp-content/uploads/2020/09/08-geneticlabs.png",
+      "id": 1
+    },
+    {
+      "brand": "Mutant",
+      "logo": "https://protei.kg/wp-content/uploads/2020/09/14-mutant.jpg",
+      "id": 8
+    },
+    {
+      "brand": "Qnt",
+      "logo": "https://protei.kg/wp-content/uploads/2020/09/20-qnt-logo.png",
+      "id": 9
+    },
+    {
+      "brand": "Ostrovit",
+      "logo": "https://protei.kg/wp-content/uploads/2020/09/19-Ostrovit_logo.png",
+      "id": 10
+    },
+    {
+      "brand": "RegFarm",
+      "logo": "https://protei.kg/wp-content/uploads/2020/09/21-LogoRP.png",
+      "id": 11
+    },
+    {
+      "brand": "Sun",
+      "logo": "https://protei.kg/wp-content/uploads/2020/09/23-san.png",
+      "id": 12
+    },
+    {
+      "brand": "Scivation",
+      "logo": "https://protei.kg/wp-content/uploads/2020/09/25-Scivation-logo.png",
+      "id": 13
+    },
+    {
+      "brand": "Universal",
+      "logo": "https://protei.kg/wp-content/uploads/2020/09/28-universaly.png",
+      "id": 15
+    }
+  ]
+}
